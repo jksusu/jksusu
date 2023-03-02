@@ -3,5 +3,3 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
 I'm jksusu - a PHP developer, and Open source contributor.
-
-I'm author of [pim-cloud](https://github.com/pim_cloud).
