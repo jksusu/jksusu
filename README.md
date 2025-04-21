@@ -2,4 +2,4 @@
 
 ### Hi there 👋 Welcome to my GitHub profile!
 
-I'm jksusu - a developer, and Open source contributor.
+I'm links - a developer, and Open source contributor.
